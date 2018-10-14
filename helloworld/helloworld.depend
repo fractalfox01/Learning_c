@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1539535709 source:c:\users\fractal-lt\documents\helloworld\main.c
+	<stdio.h>
+	"advanceStructures.h"
+
+1539035268 source:c:\users\fractal-lt\documents\helloworld\yahtzee.c
+	<stdio.h>
+
+1539054413 source:c:\users\fractal-lt\documents\helloworld\basic-memory-layout.c
+	<stdio.h>
+
+1539123607 c:\users\fractal-lt\documents\helloworld\incrementedchar.h
+
+1539125329 c:\users\fractal-lt\documents\helloworld\student.h
+
+1539126642 c:\users\fractal-lt\documents\helloworld\checkcase.h
+
+1539284588 c:\users\fractal-lt\documents\helloworld\bubblesort.h
+
+1539285414 c:\users\fractal-lt\documents\helloworld\selectionsort.h
+
+1539305063 c:\users\fractal-lt\documents\helloworld\arithmetic.h
+	<float.h>
+
+1539306049 c:\users\fractal-lt\documents\helloworld\arrayofpointers.h
+
+1539307765 c:\users\fractal-lt\documents\helloworld\bitwise1.h
+
+1539307844 c:\users\fractal-lt\documents\helloworld\bitwise2.h
+
+1539387273 c:\users\fractal-lt\documents\helloworld\dowhile.h
+
+1539387768 c:\users\fractal-lt\documents\helloworld\fibonacci.h
+
+1539388151 c:\users\fractal-lt\documents\helloworld\getcharputchar.h
+
+1539388390 c:\users\fractal-lt\documents\helloworld\ifstatement.h
+
+1539388577 c:\users\fractal-lt\documents\helloworld\integerpromotion.h
+
+1539388782 c:\users\fractal-lt\documents\helloworld\logicaland.h
+
+1539403562 c:\users\fractal-lt\documents\helloworld\logicalor.h
+
+1539403777 c:\users\fractal-lt\documents\helloworld\logicalnot.h
+
+1539403923 c:\users\fractal-lt\documents\helloworld\nestedifelse.h
+
+1539408642 c:\users\fractal-lt\documents\helloworld\pointertopointer.h
+
+1539412355 c:\users\fractal-lt\documents\helloworld\powerfunction.h
+	<math.h>
+	<limits.h>
+
+1539458862 c:\users\fractal-lt\documents\helloworld\storageclass.h
+
+1539530736 c:\users\fractal-lt\documents\helloworld\stringfunctions.h
+	<string.h>
+
+1539531009 c:\users\fractal-lt\documents\helloworld\stringfunctions2.h
+	<string.h>
+
+1539531380 c:\users\fractal-lt\documents\helloworld\structures.h
+	<string.h>
+
+1539531659 c:\users\fractal-lt\documents\helloworld\switch.h
+
+1539532090 c:\users\fractal-lt\documents\helloworld\tempconverter.h
+
+1539535358 c:\users\fractal-lt\documents\helloworld\unions.h
+	<string.h>
+
+1539535916 c:\users\fractal-lt\documents\helloworld\advancestructures.h
+	<string.h>
+

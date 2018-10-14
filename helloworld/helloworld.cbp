@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="helloworld" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/helloworld" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/helloworld" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="basic-memory-layout.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="breakStatment.h" />
+		<Unit filename="callByValue.h" />
+		<Unit filename="captials.h" />
+		<Unit filename="characters.h" />
+		<Unit filename="constants.h" />
+		<Unit filename="continueStatement.h" />
+		<Unit filename="distanceConversion.h" />
+		<Unit filename="doWhile.h" />
+		<Unit filename="escapeSequence.h" />
+		<Unit filename="fibonacci.h" />
+		<Unit filename="for.h" />
+		<Unit filename="formattedStrings.h" />
+		<Unit filename="functions.h" />
+		<Unit filename="getcharPutchar.h" />
+		<Unit filename="getsPuts.h" />
+		<Unit filename="gotoExample.h" />
+		<Unit filename="ifStatement.h" />
+		<Unit filename="increamentingPointers.h" />
+		<Unit filename="integerPromotion.h" />
+		<Unit filename="localAndGlobalVars.h" />
+		<Unit filename="logicalAnd.h" />
+		<Unit filename="logicalNot.h" />
+		<Unit filename="logicalOr.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modularDivision.h" />
+		<Unit filename="nestedIfElse.h" />
+		<Unit filename="nestedLoops.h" />
+		<Unit filename="noteOnIf.h" />
+		<Unit filename="nullPointer.h" />
+		<Unit filename="operatorPrecedence.h" />
+		<Unit filename="parameterizedMacros.h" />
+		<Unit filename="pointerToPointer.h" />
+		<Unit filename="pointersIntro.h" />
+		<Unit filename="pointersToStructures.h" />
+		<Unit filename="powerFunction.h" />
+		<Unit filename="predefinedMacros.h" />
+		<Unit filename="recursion.h" />
+		<Unit filename="relationalOperators.h" />
+		<Unit filename="returnFunction.h" />
+		<Unit filename="scanfTest.h" />
+		<Unit filename="simpleInterest.h" />
+		<Unit filename="simpleInterestEnhanced.h" />
+		<Unit filename="sizeOf.h" />
+		<Unit filename="storageClass.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
